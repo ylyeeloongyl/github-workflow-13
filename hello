@@ -1,0 +1,22 @@
+int main()
+a = 10;
+b = 20;
+c = 30;
+a = min;
+if b < a
+        {
+        b = min;
+        }
+else
+        {
+        a = min;
+        }
+if c < min
+        {
+        c = min;
+        }
+else
+        {
+        print (min);
+        }
+        
